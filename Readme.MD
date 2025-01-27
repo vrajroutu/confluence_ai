@@ -43,8 +43,8 @@ The **Confluence Architecture Analyzer** is a Python-based tool designed to anal
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/confluence-architecture-analyzer.git
-cd confluence-architecture-analyzer
+git clone https://github.com/vrajroutu/confluence_ai.git
+cd confluence_ai
 ```
 
 ### 2. Install Dependencies
