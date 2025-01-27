@@ -1,0 +1,6 @@
+requests>=2.31.0
+azure-ai-vision>=0.11.0
+openai>=1.12.0
+pyyaml>=6.0.1
+retrying>=1.3.4
+python-dotenv>=1.0.0

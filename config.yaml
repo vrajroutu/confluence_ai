@@ -1,0 +1,11 @@
+confluence:
+  base_url: "https://your-confluence.atlassian.net/wiki/rest/api"
+  user: "user@domain.com"
+  api_token: "your_api_token"
+
+azure:
+  vision_endpoint: "https://your-vision-resource.cognitiveservices.azure.com"
+  vision_key: "your_vision_key"
+  openai_endpoint: "https://your-openai-resource.openai.azure.com"
+  openai_key: "your_openai_key"
+  gpt_deployment: "gpt-4"
