@@ -1,6 +1,3 @@
-Here’s a complete `README.md` file for your project in Markdown format. It provides all the necessary information for setting up, configuring, and using the Confluence Architecture Analyzer.
-
----
 
 # Confluence Architecture Analyzer
 
@@ -191,6 +188,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## Support
 For questions or issues, please open an issue on GitHub or contact Vraj Routu.
 
----
 
-This `README.md` provides a comprehensive guide for setting up and using the Confluence Architecture Analyzer. Let me know if you need further assistance!
