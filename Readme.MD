@@ -39,6 +39,13 @@ The **Confluence Architecture Analyzer** is a Python-based tool designed to anal
 
 ---
 
+## Architecture
+
+![Architecture](docs/archietcture.png)
+
+---
+
+
 ## Setup
 
 ### 1. Clone the Repository
